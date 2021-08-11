@@ -1,5 +1,5 @@
 ## Black Hole 
-This is 2D Black Hole Visualization
+![image](https://github.com/JustNikhill/Black-Hole-/blob/main/Screenshot%20(765).png)
 
 ## Live demo 
 - [Black hole](https://justnikhill.github.io/Black-Hole-/)
