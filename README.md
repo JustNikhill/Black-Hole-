@@ -1,5 +1,5 @@
-## Black Hole 
-![image](https://github.com/JustNikhill/Black-Hole-/blob/main/Screenshot%20(765).png)
+## Calculations 
+![image](https://github.com/JustNikhill/Black-Hole-/blob/main/BlackHole%20calculations.jpeg)
 
 ## Live demo 
 - [Black hole](https://justnikhill.github.io/Black-Hole-/)
